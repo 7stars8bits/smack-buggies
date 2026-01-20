@@ -155,15 +155,48 @@ hr {
     text-align: left;
     text-indent: 2rem;
 }
-.scratch-wrapper { 
+
+.game-layout { 
     display: flex; 
     justify-content: center; 
-    margin: 2rem 0; }
+    gap: 2rem; 
+    margin-top: 2rem; 
+}
+
+.scratch-wrapper { 
+    flex:1;
+    justify-content: center; 
+    margin: 2rem 0; 
+}
 
 .scratch-wrapper iframe { 
     width: 100%; 
-    max-width: 900px; /* Increase this to make it larger */ 
-    height: 700px; /* Increase height to match your game */
+    max-width: 900px;
+    height: 700px;
     border: 2px solid #8db726;
     border-radius: 8px; 
+}
+    
+/* Sidebar ad */ 
+.ad-sidebar { 
+    width: 250px; /* fixed narrow width */ 
+    flex-shrink: 0; /* prevents shrinking */ 
+} 
+.ad-section { 
+    background: #fafafa; 
+    border: 1px solid #ddd; 
+    padding: 1rem; 
+    border-radius: 6px; 
+    text-align: center; 
+} /* Optional: stack on mobile */ 
+
+@media (max-width: 800px) { 
+    .game-layout { 
+        flex-direction: column; 
+        align-items: center; 
+    } 
+    .ad-sidebar { 
+        width: 100%; 
+        max-width: 300px; 
+    } 
 }
