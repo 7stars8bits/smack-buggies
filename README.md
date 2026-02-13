@@ -1,15 +1,13 @@
 # Smack-Buggies Website (smackbuggies.com)
 
-This repository contains the web infrastructure for [SmackBuggies.com](https://www.smackbuggies.com), the central hub for the Smack-Buggies game.
+This repository contains the web infrastructure for [SmackBuggies.com](https://www.smackbuggies.com), the central hub for the Smack Buggies game.
 
 ## Project Overview
-The website serves as the primary distribution for the SmackBuggies. It provides users with access to game builds and contact information.
+The website serves as the primary distribution for Smack Buggies. It provides users with access to game builds and contact information.
 
 ## Technical Specifications
-This project is built using standard web technologies to ensure high performance and cross-browser compatibility:
-* **Frontend:** HTML5, CSS3, and JavaScript (ES6+).
-* **Rendering:** WebGL / Three.js for 3D asset visualization.
-* **Hosting:** Optimized for static site deployment.
+This project is built using standard web technologies to ensure high performance and cross-browser compatibility. It has not been optimizeed
+for the mobile playing experience.
 
 ## Development and Deployment
 To contribute to the website or run a local development instance, follow the procedures outlined below.
