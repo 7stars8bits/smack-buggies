@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the website.
+about: Create a report to help us improve Smack Buggies.
 title: "[BUG] "
 labels: bug
 assignees: ''
