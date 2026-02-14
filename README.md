@@ -1,4 +1,4 @@
-# Smack-Buggies Website (smackbuggies.com)
+# SmackBuggies Website (smackbuggies.com)
 
 This repository contains the web infrastructure for [SmackBuggies.com](https://www.smackbuggies.com), the central hub for the Smack Buggies game.
 
