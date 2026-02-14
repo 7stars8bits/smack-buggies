@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for the Smack Buggies website.
+about: Suggest an idea for Smack Buggies.
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''
