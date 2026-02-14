@@ -1,4 +1,4 @@
-# Contributing to Smack-Buggies
+# Contributing to Smack Buggies
 
 First off, thanks for taking the time to contribute! It's people like you that make the buggy world go 'round.
 
